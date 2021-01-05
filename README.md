@@ -1,6 +1,6 @@
 Projects:
 
-Checkers with Game Tree - Not started
+Checkers with Game Tree - In Progress
 
 Chess with ML Model - Not started
 
@@ -26,7 +26,7 @@ Chatbot - Not started
 
 Music Generator - Not started
 
-Tree Library - Not started
+Data Structures Library - Started
 
 Object Tracking - Not started
 
